@@ -25,7 +25,7 @@ export function SiteFooter() {
             />
           </Link>
           <p>让专业经验继续产生价值。</p>
-          <p className="footer-entity">运营主体：海澜栖椿文化创意有限公司</p>
+          <p className="footer-entity">运营主体：上海澜栖椿文化创意有限公司</p>
         </div>
         <address className="footer-contact">
           <strong>联系方式：</strong>
