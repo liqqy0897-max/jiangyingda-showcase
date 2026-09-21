@@ -39,7 +39,6 @@ export function SiteFooter() {
           ))}
         </nav>
       </div>
-      <p className="footer-note">当前为纯展示官网；申请表仅演示交互，不会发送或保存信息。</p>
     </footer>
   );
 }
