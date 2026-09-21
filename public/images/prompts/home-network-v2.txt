@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: homepage hero photograph for 工程专家网络
+Primary request: a refined editorial photograph that represents a network of experienced senior Chinese engineering professionals, broader than a single factory trade
+Scene/backdrop: bright contemporary engineering innovation studio with subtle physical models, material samples, rolled technical drawings and a distant clean workshop visible through glass; no company branding
+Subject: three Chinese professionals aged about 60 to 70, including an older woman and two older men, in smart practical business-casual clothing, standing together in natural conversation around a worktable; capable, active and respected, not posing for a retirement advertisement
+Style/medium: premium photorealistic editorial corporate photography, real skin texture, authentic grey hair, natural fabric, candid moment, restrained visual polish
+Composition/framing: wide 3:2 landscape image for a clean corporate homepage, medium-wide eye-level framing, people grouped slightly to the right but the image itself remains visually complete, clear faces and natural hands
+Lighting/mood: soft daylight, calm, forward-looking, intelligent, warm but not sentimental
+Color palette: warm white, pale wood, muted engineering teal, one very small restrained orange detail
+Constraints: genuinely Chinese subjects; all senior subjects must visibly look 60–70 and professionally active; no text, no logos, no watermark, no hard hats, no medical or retirement-home cues
+Avoid: staged handshake, stock-photo smiles at camera, matching uniforms, dark factory, futuristic technology, luxury boardroom, charity imagery, AI artifacts

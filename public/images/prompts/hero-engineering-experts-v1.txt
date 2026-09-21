@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: website homepage hero photograph for 工程专家网络
+Primary request: create a candid editorial photograph showing experienced older Chinese engineering professionals continuing to contribute their expertise
+Scene/backdrop: bright, clean modern industrial engineering workspace with machinery and technical drawings softly visible, credible Chinese manufacturing context without any company branding
+Subject: one Chinese male engineer around age 68 with natural grey hair and one Chinese female engineer around age 63, standing with a younger engineer and calmly discussing a technical drawing; the older experts lead the discussion and feel capable, respected, energetic, and authentic
+Style/medium: photorealistic documentary corporate photography, natural skin texture, age lines, realistic grey hair, real fabric and industrial materials, not stock-photo posing
+Composition/framing: wide landscape website hero, subjects grouped mainly in the right two-thirds, some calm visual breathing room on the left for webpage copy, waist-up, hands naturally interacting with the drawing
+Lighting/mood: bright diffused daylight, warm optimistic professional mood, credible rather than sentimental
+Color palette: clean whites, warm neutrals, subtle cyan workwear accents, small restrained orange detail in the environment
+Constraints: Chinese people; older adults must look genuinely 60–70, competent and dignified; no text, no logos, no watermark, no exaggerated safety gear, no medical or retirement imagery
+Avoid: dark moody lighting, staged handshake, fake smiles toward camera, overly youthful faces, luxury office, futuristic factory, AI artifacts, visible brand marks

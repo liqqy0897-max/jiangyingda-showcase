@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: hero photograph for the 关于我们 page of 工程专家网络
+Primary request: portray a credible community of experienced Chinese technical professionals connected across generations
+Scene/backdrop: airy university-industry innovation corridor opening into a workshop and seminar space, architecture contemporary but not luxurious, no identifiable campus or corporate marks
+Subject: four Chinese senior engineering and technical professionals aged 60–72, women and men with varied appearance, walking and talking naturally with two younger professionals; the senior people are central and visibly engaged
+Style/medium: photorealistic editorial documentary photography, genuine age lines, grey hair, natural clothing, candid movement
+Composition/framing: wide 3:2 landscape, layered group with depth, complete bodies from knee up, balanced enough for a full-width page hero, natural gestures
+Lighting/mood: soft morning daylight, open, optimistic, purposeful, dignified rather than celebratory
+Color palette: warm stone, off-white, muted teal, natural greenery, restrained orange detail
+Constraints: realistic Chinese people; no readable text, no logos, no watermark, no graduation gowns, no medical or retirement cues
+Avoid: posed group portrait, everyone looking at camera, matching uniforms, charity campaign tone, futuristic campus, AI artifacts

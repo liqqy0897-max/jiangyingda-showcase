@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: hero photograph for the 项目保障 page of 工程专家网络
+Primary request: visualize careful project review, clear boundaries and responsible decision-making without using legal clichés
+Scene/backdrop: quiet bright technical review table beside an engineering facility, with organized drawings, a neutral checklist, measuring tools and a tablet with no readable interface
+Subject: a senior Chinese male engineering expert around 68 and a Chinese female project lead around 45 reviewing the same document carefully, pointing to a defined scope on the drawing; professional concentration and mutual respect
+Style/medium: premium photorealistic documentary photography, authentic hands, paper and material textures, candid rather than posed
+Composition/framing: wide 3:2 landscape, slightly elevated three-quarter view, faces partially visible while the shared document and review action remain central
+Lighting/mood: clear natural light, precise, calm, trustworthy
+Color palette: warm paper, soft grey, deep teal accents, one small orange marker
+Constraints: no readable text, no logos, no watermark, no scales of justice, locks, shields, handshakes or contract-signing cliché
+Avoid: courtroom imagery, stock-photo posing, alarmed expressions, dark blue corporate cliché, futuristic UI, AI artifacts

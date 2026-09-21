@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: jiangyingda-showcase
+    runtime: node
+    plan: free
+    buildCommand: npm install -g pnpm@11.19.0 && pnpm install --frozen-lockfile && pnpm build
+    startCommand: pnpm start
+    healthCheckPath: /
+    envVars:
+      - key: NODE_VERSION
+        value: 24.18.0
+      - key: ENABLE_PLATFORM_DEMO
+        value: "false"

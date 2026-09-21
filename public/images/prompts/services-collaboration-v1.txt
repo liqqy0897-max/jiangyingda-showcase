@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: hero photograph for the 服务方式 page of 工程专家网络
+Primary request: show what flexible expert collaboration looks like in practice
+Scene/backdrop: bright project room connected to a real engineering workspace, with one whiteboard carrying only abstract illegible diagrams, a few technical drawings and a physical component on the table
+Subject: one senior Chinese female engineer around 66 and one senior Chinese male engineer around 69 working with two younger professionals; they are comparing a drawing and a physical component, with the senior experts guiding a focused discussion
+Style/medium: photorealistic documentary business photography, candid, credible, real skin and fabric texture
+Composition/framing: wide 3:2 landscape, group interaction across the middle, visible work materials, natural hands, no person looking at camera
+Lighting/mood: clean daylight, collaborative, practical, unhurried
+Color palette: warm neutrals, light grey, muted teal accents, minimal orange
+Constraints: no readable text, no logos, no watermark, no staged handshake, no safety-costume clichés
+Avoid: generic conference room, exaggerated smiles, futuristic screens, dark industrial mood, classroom cliché, AI artifacts

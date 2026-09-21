@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: secondary website editorial photograph for 工程专家网络
+Primary request: create a natural scene of an experienced older Chinese female engineering professional sharing practical knowledge with younger technical staff
+Scene/backdrop: bright technical meeting corner beside a real manufacturing workshop, a few paper drawings and a simple machine component on the table, no brand signage
+Subject: Chinese woman around age 66 with natural grey-streaked hair and authentic age lines, speaking with two younger Chinese engineers who are listening and taking notes; she is clearly the respected subject-matter expert, calm and confident
+Style/medium: photorealistic documentary corporate photography, genuine skin texture and fabric, candid rather than posed
+Composition/framing: landscape 3:2 editorial image, medium-wide, balanced group interaction, all hands anatomically natural, enough environmental context to feel real
+Lighting/mood: soft daylight, warm, open, collaborative and professional
+Color palette: warm off-white, light wood, soft cyan accents, restrained orange detail
+Constraints: no text, no logos, no watermark; people must look realistically Chinese; older expert must genuinely look in her mid-to-late sixties; dignified and active, not fragile
+Avoid: staged handshake, everyone looking at camera, excessive smiling, classroom cliché, hospital or retirement-home cues, dark industrial mood, luxury office, futuristic technology, AI artifacts
