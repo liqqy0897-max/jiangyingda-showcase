@@ -35,7 +35,7 @@ export function JoinPanel() {
           ) : (
             <>
               <div className="form-heading">
-                <h3>申请加入</h3>
+                <h3>加入专家库</h3>
                 <p>先留下三项基本信息，完整资料可在后续沟通中补充。</p>
               </div>
               <label>
