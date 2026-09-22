@@ -1030,7 +1030,21 @@ figure figcaption {
   .editorial-cta .button { width: 100%; }
 
   .footer-inner { grid-template-columns: 1fr; }
-  .site-footer nav { justify-content: flex-start; }
+  .site-footer nav {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(52px, 1fr));
+    justify-content: stretch;
+    gap: 0;
+    overflow-x: auto;
+  }
+  .site-footer nav a {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: clamp(12px, 3.6vw, 15px);
+    white-space: nowrap;
+  }
 
   .motion-ready [data-reveal="left"],
   .motion-ready [data-reveal="right"] { --reveal-x: 0px; clip-path: inset(0 0 10% 0); }
