@@ -33,7 +33,7 @@ This is a focused product portal, not a retirement job board, open social commun
 - Service modes: a dedicated page presenting three public categories only — professional consultation, project collaboration and experience transfer.
 - Project assurance: a dedicated page presenting three principles only — mutual confirmation, clear boundaries and controlled information.
 - About: a dedicated page explaining whom the network connects and using only the general phrase 高校 学院与行业组织.
-- Join: a compact expression-of-interest form on the homepage. It does not appear in the global navigation. In the frontend prototype, submission is explicitly local and does not transmit data.
+- Join: a compact expression-of-interest form on the homepage. It does not appear in the global navigation. Submission is validated server-side and emailed to the approved contact mailbox when SMTP is configured; it does not create a platform account or write to the simulated MVP state.
 
 ## Current Exclusions
 
@@ -41,7 +41,7 @@ This is a focused product portal, not a retirement job board, open social commun
 - No detailed matching logic, expert-passport fields, fee structure, contract clauses, insurance, tax arrangements or internal workflow.
 - No fabricated expert, company, institution, partner, metric, testimonial or project case.
 - No named relationship with 江西理工大学 or 原南方冶金学院 and no reference to a 校友圈试点.
-- No public operating-entity or contact claim until it is supplied and approved.
+- Do not add operating-entity or contact claims beyond the details explicitly approved for the privacy page and join-notification mailbox.
 
 ## Brand Commitments
 

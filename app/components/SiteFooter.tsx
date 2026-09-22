@@ -13,7 +13,7 @@ export function SiteFooter() {
   return (
     <footer className="site-footer">
       <div className="footer-inner">
-        <div>
+        <div className="footer-about">
           <Link className="brand footer-brand" href="/" aria-label="匠应达首页">
             <Image
               className="brand-logo"
@@ -33,6 +33,18 @@ export function SiteFooter() {
           <a href="tel:+8613774495622">+86 137 7449 5622</a>
           <a href="mailto:mayonggang2021@gmail.com">mayonggang2021@gmail.com</a>
         </address>
+        <figure className="footer-wechat">
+          <strong className="footer-wechat-title">微信联系</strong>
+          <Image
+            className="footer-wechat-image"
+            src="/contact/wechat-qr.jpg"
+            alt="马经理微信二维码"
+            width={518}
+            height={508}
+            unoptimized
+          />
+          <figcaption>扫码联系微信</figcaption>
+        </figure>
         <nav aria-label="页脚导航">
           {navItems.map(([label, href]) => (
             <Link href={href} key={href}>{label}</Link>

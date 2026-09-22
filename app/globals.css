@@ -461,6 +461,12 @@ figure figcaption {
 .join-form input::placeholder { color: #5b716d; opacity: 1; }
 .join-form input:hover, .join-form input:focus { border-color: var(--teal-deep); }
 .form-submit { width: 100%; margin-block-start: 6px; }
+.form-submit:disabled { cursor: wait; opacity: 0.68; transform: none; box-shadow: none; }
+.join-form .form-consent { display: flex; gap: 10px; align-items: flex-start; font-size: 13px; font-weight: 500; line-height: 1.55; }
+.join-form .form-consent input { flex: 0 0 auto; width: 18px; min-height: 18px; margin-block-start: 2px; accent-color: var(--teal-deep); }
+.form-consent a { color: var(--teal-deep); font-weight: 700; text-underline-offset: 3px; }
+.form-error { margin: 0; padding: 11px 13px; background: var(--orange-soft); color: var(--ink); border: 1px solid var(--orange); font-size: 14px; line-height: 1.55; }
+.join-trap { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 .form-disclaimer { margin: -3px 0 0; color: #61746f; font-size: 13px; text-align: center; }
 .form-success { max-width: 32em; margin: auto; text-align: center; }
 .form-success > svg { width: 58px; height: 58px; margin-block-end: 24px; color: var(--teal); stroke-width: 1.6; }
@@ -787,16 +793,21 @@ figure figcaption {
 
 /* Footer */
 .site-footer { padding: 66px max(28px, calc((100vw - var(--page-width)) / 2)) 26px; background: var(--footer-mint); color: var(--teal-deep); }
-.footer-inner { display: grid; grid-template-columns: 1fr auto auto; gap: 50px; align-items: start; padding-block-end: 52px; }
+.footer-inner { display: grid; grid-template-columns: minmax(0, 1fr) 230px 136px auto; grid-template-areas: "about contact wechat nav"; gap: 32px; align-items: start; padding-block-end: 52px; }
+.footer-about { grid-area: about; }
 .footer-brand { padding: 0; }
 .footer-brand .brand-logo { width: 220px; }
 .footer-inner p { margin: 14px 0 0; color: var(--muted); font-size: 15px; }
 .footer-entity { max-width: 28em; line-height: 1.6; }
-.footer-contact { display: grid; gap: 7px; min-width: 230px; color: var(--teal-deep); font-size: 14px; font-style: normal; }
+.footer-contact { grid-area: contact; display: grid; gap: 7px; min-width: 0; color: var(--teal-deep); font-size: 14px; font-style: normal; }
 .footer-contact strong { font-size: 15px; }
 .footer-contact a { color: var(--teal-deep); overflow-wrap: anywhere; }
 .footer-contact a:hover { color: var(--teal); }
-.site-footer nav { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 18px 36px; }
+.footer-wechat { grid-area: wechat; display: grid; justify-items: center; gap: 10px; margin: 0; }
+.footer-wechat-title { color: var(--teal-deep); font-size: 14px; text-align: center; }
+.footer-wechat-image { width: 136px; height: auto; padding: 7px; background: var(--white); border: 1px solid rgba(7,63,63,.14); border-radius: 4px; }
+.footer-wechat figcaption { position: static; z-index: auto; inset: auto; width: 100%; padding: 0; background: transparent; color: var(--muted); font-size: 13px; line-height: 1.5; letter-spacing: 0; text-align: center; }
+.site-footer nav { grid-area: nav; display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 18px 36px; }
 .site-footer nav a { color: var(--teal-deep); font-size: 15px; }
 .site-footer nav a:hover { color: var(--teal); }
 .footer-note { margin: 0; padding-block-start: 22px; border-top: 1px solid rgba(7,63,63,.2); color: var(--muted); font-size: 13px; }
@@ -834,6 +845,9 @@ figure figcaption {
   .join-layout { grid-template-columns: 1fr; }
   .join-copy { min-height: 440px; }
   .join-form { min-height: 520px; }
+
+  .footer-inner { grid-template-columns: minmax(0, 1fr) 230px 136px; grid-template-areas: "about contact wechat" "nav nav nav"; }
+  .site-footer nav { justify-content: flex-start; }
 
   .page-hero-title { width: min(67vw, 680px); }
   .page-hero > p { width: min(33vw, 360px); }
@@ -1029,7 +1043,8 @@ figure figcaption {
   .editorial-cta h2 { font-size: clamp(3rem, 14vw, 4rem); }
   .editorial-cta .button { width: 100%; }
 
-  .footer-inner { grid-template-columns: 1fr; }
+  .footer-inner { grid-template-columns: minmax(0, 1fr) 120px; grid-template-areas: "about about" "contact wechat" "nav nav"; gap: 36px 16px; }
+  .footer-wechat-image { width: 120px; }
   .site-footer nav {
     display: grid;
     grid-template-columns: repeat(5, minmax(52px, 1fr));
@@ -1060,6 +1075,10 @@ figure figcaption {
   .button { padding-inline: 17px; }
   .page-hero-title { width: calc(100% - 24px); margin-inline: 12px; }
   .site-footer { padding-inline: 18px; }
+  .footer-inner { grid-template-columns: minmax(0, 1fr) 104px; column-gap: 12px; }
+  .footer-wechat-image { width: 104px; padding: 6px; }
+  .footer-wechat figcaption { font-size: 12px; }
+  .footer-wechat-title { font-size: 13px; }
   .assurance-principle-list article { grid-template-columns: 1fr; }
 }
 
