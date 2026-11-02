@@ -799,6 +799,8 @@ figure figcaption {
 .footer-brand .brand-logo { width: 220px; }
 .footer-inner p { margin: 14px 0 0; color: var(--muted); font-size: 15px; }
 .footer-entity { max-width: 28em; line-height: 1.6; }
+.footer-record a { color: var(--muted); text-decoration: none; }
+.footer-record a:hover { color: var(--teal); text-decoration: underline; text-underline-offset: 4px; }
 .footer-contact { grid-area: contact; display: grid; gap: 7px; min-width: 0; color: var(--teal-deep); font-size: 14px; font-style: normal; }
 .footer-contact strong { font-size: 15px; }
 .footer-contact a { color: var(--teal-deep); overflow-wrap: anywhere; }

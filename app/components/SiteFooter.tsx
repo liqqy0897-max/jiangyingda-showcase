@@ -26,6 +26,11 @@ export function SiteFooter() {
           </Link>
           <p>让专业经验继续产生价值。</p>
           <p className="footer-entity">运营主体：上海澜栖椿文化创意有限公司</p>
+          <p className="footer-record">
+            <a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer">
+              沪ICP备2025153502号-2
+            </a>
+          </p>
         </div>
         <address className="footer-contact">
           <strong>联系方式：</strong>
