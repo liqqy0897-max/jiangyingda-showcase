@@ -80,8 +80,8 @@ export default function AssurancePage() {
           <div className="editorial-cta-inner page-shell">
             <h2>合作的第一步，是彼此了解</h2>
             <div>
-              <p>如果您愿意继续贡献专业经验，可以先留下方向，我们再进行后续沟通。</p>
-              <Link className="button button-primary" href="/join">留下加入意向 <ArrowRight aria-hidden="true" /></Link>
+              <p>如需进一步了解，可通过页面底部公布的电话、邮箱或微信联系我们。</p>
+              <Link className="button button-primary" href="/#contact">查看联系方式 <ArrowRight aria-hidden="true" /></Link>
             </div>
           </div>
         </section>

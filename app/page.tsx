@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, ShieldCheck } from "lucide-react";
-import { JoinPanel } from "./components/JoinPanel";
 import { SiteFooter } from "./components/SiteFooter";
 import { SiteHeader } from "./components/SiteHeader";
 
@@ -47,8 +46,8 @@ export default function Home() {
                 <span>继续在一线</span>
                 <span>发挥作用</span>
               </h1>
-              <Link className="button button-primary" href="/join">
-                申请加入专家网络 <ArrowRight aria-hidden="true" />
+              <Link className="button button-primary" href="/services">
+                查看服务方式 <ArrowRight aria-hidden="true" />
               </Link>
             </div>
 
@@ -126,8 +125,6 @@ export default function Home() {
             <Link className="text-link" href="/about">了解匠应达 <ArrowRight aria-hidden="true" /></Link>
           </div>
         </section>
-
-        <JoinPanel />
       </main>
 
       <SiteFooter />

@@ -1,4 +1,6 @@
 :root {
+  --font-body: "Microsoft YaHei";
+  --font-display: "Songti SC";
   --paper: #fff9ef;
   --white: #ffffff;
   --ink: #0f3331;

@@ -70,8 +70,8 @@ export default function AboutPage() {
           <div className="editorial-cta-inner page-shell">
             <h2>让经验再次参与真实工作</h2>
             <div>
-              <p>先留下您的专业方向，让一次合适的连接从这里开始。</p>
-              <Link className="button button-dark" href="/join">留下加入意向 <ArrowRight aria-hidden="true" /></Link>
+              <p>通过电话、邮箱或微信了解匠应达，与我们进行直接沟通。</p>
+              <Link className="button button-dark" href="/#contact">查看联系方式 <ArrowRight aria-hidden="true" /></Link>
             </div>
           </div>
         </section>

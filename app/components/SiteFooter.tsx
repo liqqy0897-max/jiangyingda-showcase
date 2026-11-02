@@ -32,7 +32,7 @@ export function SiteFooter() {
             </a>
           </p>
         </div>
-        <address className="footer-contact">
+        <address className="footer-contact" id="contact">
           <strong>联系方式：</strong>
           <span>马经理</span>
           <a href="tel:+8613774495622">+86 137 7449 5622</a>

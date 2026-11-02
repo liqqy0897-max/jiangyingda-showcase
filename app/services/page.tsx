@@ -85,10 +85,10 @@ export default function ServicesPage() {
 
         <section className="editorial-cta" data-reveal="up">
           <div className="editorial-cta-inner page-shell">
-            <h2>从一次合适的参与开始</h2>
+            <h2>了解适合您的服务方式</h2>
             <div>
-              <p>先告诉我们您的专业方向，完整经历和参与偏好可以在后续沟通中补充。</p>
-              <Link className="button button-primary" href="/join">留下加入意向 <ArrowRight aria-hidden="true" /></Link>
+              <p>如需进一步了解，可通过页面底部公布的电话、邮箱或微信联系我们。</p>
+              <Link className="button button-primary" href="/#contact">查看联系方式 <ArrowRight aria-hidden="true" /></Link>
             </div>
           </div>
         </section>

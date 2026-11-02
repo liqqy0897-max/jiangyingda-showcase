@@ -36,9 +36,6 @@ export function SiteHeader() {
             {label}
           </Link>
         ))}
-        <Link className="nav-action" href="/join" aria-current={pathname === "/join" ? "page" : undefined}>
-          申请加入
-        </Link>
       </nav>
 
       <button
@@ -64,14 +61,6 @@ export function SiteHeader() {
               {label}
             </Link>
           ))}
-          <Link
-            className="nav-action"
-            href="/join"
-            aria-current={pathname === "/join" ? "page" : undefined}
-            onClick={() => setMenuOpen(false)}
-          >
-            申请加入
-          </Link>
         </nav>
       )}
     </header>
